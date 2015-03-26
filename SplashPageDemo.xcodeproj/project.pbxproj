@@ -14,6 +14,17 @@
 		59872C6D1AC427970004C81F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59872C6C1AC427970004C81F /* Images.xcassets */; };
 		59872C701AC427970004C81F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 59872C6E1AC427970004C81F /* LaunchScreen.xib */; };
 		59872C7C1AC427970004C81F /* SplashPageDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 59872C7B1AC427970004C81F /* SplashPageDemoTests.m */; };
+		59872C8C1AC4287E0004C81F /* EAIntroPage.m in Sources */ = {isa = PBXBuildFile; fileRef = 59872C891AC4287E0004C81F /* EAIntroPage.m */; };
+		59872C8D1AC4287E0004C81F /* EAIntroView.m in Sources */ = {isa = PBXBuildFile; fileRef = 59872C8B1AC4287E0004C81F /* EAIntroView.m */; };
+		59872CA01AC438B70004C81F /* SMPageControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 59872C9F1AC438B70004C81F /* SMPageControl.m */; };
+		59872CA41AC43F110004C81F /* EARestrictedScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 59872CA31AC43F110004C81F /* EARestrictedScrollView.m */; };
+		59872CAA1AC446E20004C81F /* IronMan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59872CA51AC446E20004C81F /* IronMan.jpg */; };
+		59872CAB1AC446E20004C81F /* CaptainAmerica.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59872CA61AC446E20004C81F /* CaptainAmerica.jpg */; };
+		59872CAC1AC446E20004C81F /* Thor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59872CA71AC446E20004C81F /* Thor.jpg */; };
+		59872CAD1AC446E20004C81F /* Ultron.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59872CA81AC446E20004C81F /* Ultron.jpg */; };
+		59872CAE1AC446E20004C81F /* Hulk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59872CA91AC446E20004C81F /* Hulk.jpg */; };
+		59872CB01AC446F50004C81F /* Back.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59872CAF1AC446F50004C81F /* Back.jpg */; };
+		59872CB21AC469DF0004C81F /* IntroViewX.xib in Resources */ = {isa = PBXBuildFile; fileRef = 59872CB11AC469DF0004C81F /* IntroViewX.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +51,21 @@
 		59872C751AC427970004C81F /* SplashPageDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SplashPageDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		59872C7A1AC427970004C81F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		59872C7B1AC427970004C81F /* SplashPageDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SplashPageDemoTests.m; sourceTree = "<group>"; };
+		59872C881AC4287E0004C81F /* EAIntroPage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EAIntroPage.h; sourceTree = "<group>"; };
+		59872C891AC4287E0004C81F /* EAIntroPage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EAIntroPage.m; sourceTree = "<group>"; };
+		59872C8A1AC4287E0004C81F /* EAIntroView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EAIntroView.h; sourceTree = "<group>"; };
+		59872C8B1AC4287E0004C81F /* EAIntroView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EAIntroView.m; sourceTree = "<group>"; };
+		59872C9E1AC438B70004C81F /* SMPageControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMPageControl.h; sourceTree = "<group>"; };
+		59872C9F1AC438B70004C81F /* SMPageControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMPageControl.m; sourceTree = "<group>"; };
+		59872CA21AC43F110004C81F /* EARestrictedScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EARestrictedScrollView.h; sourceTree = "<group>"; };
+		59872CA31AC43F110004C81F /* EARestrictedScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EARestrictedScrollView.m; sourceTree = "<group>"; };
+		59872CA51AC446E20004C81F /* IronMan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IronMan.jpg; sourceTree = "<group>"; };
+		59872CA61AC446E20004C81F /* CaptainAmerica.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CaptainAmerica.jpg; sourceTree = "<group>"; };
+		59872CA71AC446E20004C81F /* Thor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Thor.jpg; sourceTree = "<group>"; };
+		59872CA81AC446E20004C81F /* Ultron.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ultron.jpg; sourceTree = "<group>"; };
+		59872CA91AC446E20004C81F /* Hulk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Hulk.jpg; sourceTree = "<group>"; };
+		59872CAF1AC446F50004C81F /* Back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Back.jpg; sourceTree = "<group>"; };
+		59872CB11AC469DF0004C81F /* IntroViewX.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = IntroViewX.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,13 +107,11 @@
 		59872C5E1AC427970004C81F /* SplashPageDemo */ = {
 			isa = PBXGroup;
 			children = (
-				59872C631AC427970004C81F /* AppDelegate.h */,
-				59872C641AC427970004C81F /* AppDelegate.m */,
-				59872C661AC427970004C81F /* ViewController.h */,
-				59872C671AC427970004C81F /* ViewController.m */,
 				59872C691AC427970004C81F /* Main.storyboard */,
-				59872C6C1AC427970004C81F /* Images.xcassets */,
-				59872C6E1AC427970004C81F /* LaunchScreen.xib */,
+				59872CB11AC469DF0004C81F /* IntroViewX.xib */,
+				59872C901AC428AF0004C81F /* Main View Controller */,
+				59872C8E1AC428850004C81F /* EA Intro */,
+				59872CA11AC438BB0004C81F /* SM Page Control */,
 				59872C5F1AC427970004C81F /* Supporting Files */,
 			);
 			path = SplashPageDemo;
@@ -96,6 +120,11 @@
 		59872C5F1AC427970004C81F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				59872C9D1AC42AF70004C81F /* Back Images */,
+				59872C6C1AC427970004C81F /* Images.xcassets */,
+				59872C631AC427970004C81F /* AppDelegate.h */,
+				59872C641AC427970004C81F /* AppDelegate.m */,
+				59872C6E1AC427970004C81F /* LaunchScreen.xib */,
 				59872C601AC427970004C81F /* Info.plist */,
 				59872C611AC427970004C81F /* main.m */,
 			);
@@ -117,6 +146,50 @@
 				59872C7A1AC427970004C81F /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		59872C8E1AC428850004C81F /* EA Intro */ = {
+			isa = PBXGroup;
+			children = (
+				59872C881AC4287E0004C81F /* EAIntroPage.h */,
+				59872C891AC4287E0004C81F /* EAIntroPage.m */,
+				59872C8A1AC4287E0004C81F /* EAIntroView.h */,
+				59872C8B1AC4287E0004C81F /* EAIntroView.m */,
+				59872CA21AC43F110004C81F /* EARestrictedScrollView.h */,
+				59872CA31AC43F110004C81F /* EARestrictedScrollView.m */,
+			);
+			name = "EA Intro";
+			sourceTree = "<group>";
+		};
+		59872C901AC428AF0004C81F /* Main View Controller */ = {
+			isa = PBXGroup;
+			children = (
+				59872C661AC427970004C81F /* ViewController.h */,
+				59872C671AC427970004C81F /* ViewController.m */,
+			);
+			name = "Main View Controller";
+			sourceTree = "<group>";
+		};
+		59872C9D1AC42AF70004C81F /* Back Images */ = {
+			isa = PBXGroup;
+			children = (
+				59872CAF1AC446F50004C81F /* Back.jpg */,
+				59872CA51AC446E20004C81F /* IronMan.jpg */,
+				59872CA61AC446E20004C81F /* CaptainAmerica.jpg */,
+				59872CA71AC446E20004C81F /* Thor.jpg */,
+				59872CA81AC446E20004C81F /* Ultron.jpg */,
+				59872CA91AC446E20004C81F /* Hulk.jpg */,
+			);
+			name = "Back Images";
+			sourceTree = "<group>";
+		};
+		59872CA11AC438BB0004C81F /* SM Page Control */ = {
+			isa = PBXGroup;
+			children = (
+				59872C9E1AC438B70004C81F /* SMPageControl.h */,
+				59872C9F1AC438B70004C81F /* SMPageControl.m */,
+			);
+			name = "SM Page Control";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -201,6 +274,13 @@
 			files = (
 				59872C6B1AC427970004C81F /* Main.storyboard in Resources */,
 				59872C701AC427970004C81F /* LaunchScreen.xib in Resources */,
+				59872CB01AC446F50004C81F /* Back.jpg in Resources */,
+				59872CAC1AC446E20004C81F /* Thor.jpg in Resources */,
+				59872CAE1AC446E20004C81F /* Hulk.jpg in Resources */,
+				59872CAD1AC446E20004C81F /* Ultron.jpg in Resources */,
+				59872CAB1AC446E20004C81F /* CaptainAmerica.jpg in Resources */,
+				59872CAA1AC446E20004C81F /* IronMan.jpg in Resources */,
+				59872CB21AC469DF0004C81F /* IntroViewX.xib in Resources */,
 				59872C6D1AC427970004C81F /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -219,9 +299,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				59872CA01AC438B70004C81F /* SMPageControl.m in Sources */,
 				59872C681AC427970004C81F /* ViewController.m in Sources */,
+				59872C8C1AC4287E0004C81F /* EAIntroPage.m in Sources */,
+				59872CA41AC43F110004C81F /* EARestrictedScrollView.m in Sources */,
 				59872C651AC427970004C81F /* AppDelegate.m in Sources */,
 				59872C621AC427970004C81F /* main.m in Sources */,
+				59872C8D1AC4287E0004C81F /* EAIntroView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -346,6 +430,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SplashPageDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -356,6 +441,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SplashPageDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
